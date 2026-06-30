@@ -311,4 +311,4 @@ This SQL project serves as the analytical foundation for an **interactive Power 
 
 **Ronik Matta**
 
-Actuarial Science Student | Aspiring Data Analyst
+Actuarial Science Student 
